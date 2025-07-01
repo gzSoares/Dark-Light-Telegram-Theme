@@ -65,6 +65,6 @@ https://t.me/addtheme/qRww0Wzd295bQZV8
 Light Slate:
 https://t.me/addtheme/FRM29wiKus6gIvjd
 
-Only tested in GNOME.
 
-Enjoy!
+
+Only tested in GNOME. Enjoy!
