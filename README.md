@@ -3,9 +3,6 @@ Theme inspired in GNOME Adwaita.
 
 A Telegram Desktop theme I created it to provide the users of GNOME DE some consistency.
 
-Dark Theme Example:
-![Captura de tela de 2025-07-01 16-07-59](https://github.com/user-attachments/assets/8dc0d3bf-f2f3-4ac1-b998-3bb8ce77b200)
-
 Dark Blue:
 https://t.me/addtheme/MQtT9gKazF8YBEyw
 
@@ -34,11 +31,7 @@ Dark Yellow:
 https://t.me/addtheme/KMz4dnRsZ3s7hR4j
 
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-Light Themes Example:
-![Captura de tela de 2025-07-01 16-07-51](https://github.com/user-attachments/assets/01c8e431-fc93-457d-a625-f7de249d2e83)
-
+--------------------------------------------
 Light Blue:
 https://t.me/addtheme/nEvXUQoat3VoSSon
 
