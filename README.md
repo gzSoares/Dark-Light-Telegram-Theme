@@ -1,4 +1,4 @@
-# Telegram-Adwaita-Dark-White-Theme
+# Telegram Dark and Light Theme
 Theme inspired in GNOME Adwaita.
 
 A Telegram Desktop theme I created it to provide the users of GNOME DE some consistency.
