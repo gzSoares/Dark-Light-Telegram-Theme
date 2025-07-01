@@ -67,4 +67,4 @@ https://t.me/addtheme/FRM29wiKus6gIvjd
 
 
 
-Only tested in GNOME. Enjoy!
+Only tested in GNOME. Enjoy it!
