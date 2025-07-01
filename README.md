@@ -62,5 +62,6 @@ https://t.me/addtheme/hpfb5SHiIS1CHRaU
 --------------------------------------------
 Only tested in GNOME. Enjoy it!
 If you liked my work, feel free to make a donation.
+
 BTC: 1PrDBjWD8oZfs4NgrYrAFi713pPVVdpGxZ
 Pix: f3f5a6fa-4840-4d61-b9b1-cb3405141d4d
